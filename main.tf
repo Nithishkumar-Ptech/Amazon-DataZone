@@ -1,0 +1,3 @@
+module "datazone" {
+  source       = "./modules"
+}
